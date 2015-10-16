@@ -5,3 +5,18 @@ Respuestas a las preguntas de la práctica 3
 El propósito de trabajar con distintas ramas es realizar distintos cambios sobre un mismo proyecto, para luego poder fusionar los cambios con la rama principal, o tener una versión distinta.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+3.- ¿Cuál es la ventaja de reorganizar (rebase)?
+
+Reorganizar deja un registro más claro. Aparece como un registro lineal, como si todo el trabajo se hubiese realizado en serie, aunque se haya hecho en paralelo.
