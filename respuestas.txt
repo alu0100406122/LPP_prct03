@@ -11,6 +11,5 @@ Es una de las dos formas de integrar los cambios de una rama en otra. De esta fo
 
 3.- ¿Cuál es la ventaja de reorganizar (rebase)?
 
-Reorganizar deja un registro más claro. Aparece como un registro lineal, como si todo el trabajo se hubiese realizado en serie, aunque se haya hecho en paralelo.
-
+Reorganizar deja un registro más claro. Aparece como un registro lineal, como si todo el trabajo se hubiese realizado en serie, aunque se haya hecho en paralelo.  
 
